@@ -5,5 +5,5 @@ def position_taken?(board, player_character)
     return false
   elsif board[index] == "X"
     return true
-  elsif
+  end
 end
